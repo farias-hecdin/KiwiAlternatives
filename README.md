@@ -2,7 +2,9 @@
 
 Una lista de alternativas al navegador Kiwi Browser, recopiladas de foros de Reddit y otros sitios web. Estas opciones pueden ser útiles si estás buscando un navegador con características similares o si simplemente deseas probar algo nuevo.
 
-| Nombre                | Open-source | Extensiones                   | Motor     |
+## 🗒️ Alternativas
+
+| Nombre                | Open source | Extensiones                   | Motor     |
 |-----------------------|-------------|-------------------------------|-----------|
 | Quetta                | Privativo   | Sí                            | Chromium  |
 | Kito                  | Privativo   | Sí                            | Chromium  |
@@ -19,3 +21,6 @@ Una lista de alternativas al navegador Kiwi Browser, recopiladas de foros de Red
 | Iceraven              | Sí          | Acepta algunas extensiones    | Firefox   |
 | Via                   | Sí          | Solo via Tampermonkey         | WebKit    |
 
+## 🛡️ Licencia
+
+KiwiAlternatives está bajo la licencia MIT. Consulta el archivo LICENSE para obtener más información.
