@@ -1,6 +1,8 @@
+> Translate this file into your native language using `Google Translate` or a [similar service](https://immersivetranslate.com).
+
 # KiwiAlternatives
 
-Una lista de alternativas al navegador Kiwi Browser, recopiladas de foros de Reddit y otros sitios web. Estas opciones pueden ser útiles si estás buscando un navegador con características similares o si simplemente deseas probar algo nuevo.
+Una lista de alternativas al navegador `Kiwi Browser`, recopiladas de foros de Reddit y otros sitios web. Estas opciones pueden ser útiles si estás buscando un navegador con características similares o si simplemente deseas probar algo nuevo.
 
 ## 🗒️ Alternativas
 
@@ -15,6 +17,8 @@ Una lista de alternativas al navegador Kiwi Browser, recopiladas de foros de Red
 | Rainsee               | De pago     | Sí                            | Chromium  |
 | HuBrowser             | De pago     | Sí                            | Chromium  |
 | Edge Canary           | Privativo   | Sí                            | Chromium  |
+| Opera                 | Privativo   | No                            | Chromium  |
+| Brave                 | Privativo   | Acepta algunas extensiones    | Chromium  |
 | SmartCookieWeb Preview| Sí          | Sí                            | WebKit    |
 | Yandex                | Privativo   | Acepta algunas extensiones    | Chromium  |
 | FireFennec            | Sí          | Acepta algunas extensiones    | Firefox   |
@@ -23,4 +27,4 @@ Una lista de alternativas al navegador Kiwi Browser, recopiladas de foros de Red
 
 ## 🛡️ Licencia
 
-KiwiAlternatives está bajo la licencia MIT. Consulta el archivo LICENSE para obtener más información.
+KiwiAlternatives está bajo la licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
