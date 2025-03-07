@@ -8,22 +8,22 @@ Una lista de alternativas al navegador `Kiwi Browser`, recopiladas de foros de R
 
 | Nombre                | Open source | Extensiones                   | Motor     |
 |-----------------------|-------------|-------------------------------|-----------|
-| Quetta                | Privativo   | Sí                            | Chromium  |
+| Brave                 | Privativo   | Acepta algunas extensiones    | Chromium  |
+| Edge Canary           | Privativo   | Sí                            | Chromium  |
+| FireFennec            | Sí          | Acepta algunas extensiones    | Firefox   |
+| Flowsurf              | Privativo   | Sí                            | Chromium  |
+| HuBrowser             | De pago     | Sí                            | Chromium  |
+| Iceraven              | Sí          | Acepta algunas extensiones    | Firefox   |
 | Kito                  | Privativo   | Sí                            | Chromium  |
-| Mises                 | Sí          | Sí                            | Chromium  |
 | Lemur                 | Sí          | Sí                            | Chromium  |
 | Mask                  | Privativo   | Sí                            | Chromium  |
-| Flowsurf              | Privativo   | Sí                            | Chromium  |
-| Rainsee               | De pago     | Sí                            | Chromium  |
-| HuBrowser             | De pago     | Sí                            | Chromium  |
-| Edge Canary           | Privativo   | Sí                            | Chromium  |
+| Mises                 | Sí          | Sí                            | Chromium  |
 | Opera                 | Privativo   | No                            | Chromium  |
-| Brave                 | Privativo   | Acepta algunas extensiones    | Chromium  |
+| Quetta                | Privativo   | Sí                            | Chromium  |
+| Rainsee               | De pago     | Sí                            | Chromium  |
 | SmartCookieWeb Preview| Sí          | Sí                            | WebKit    |
-| Yandex                | Privativo   | Acepta algunas extensiones    | Chromium  |
-| FireFennec            | Sí          | Acepta algunas extensiones    | Firefox   |
-| Iceraven              | Sí          | Acepta algunas extensiones    | Firefox   |
 | Via                   | Sí          | Solo via Tampermonkey         | WebKit    |
+| Yandex                | Privativo   | Acepta algunas extensiones    | Chromium  |
 
 ## 🛡️ Licencia
 
